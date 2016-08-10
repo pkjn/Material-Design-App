@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/shape" android:right="3dp">
+        <shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#2000"/>
+            <size android:width="4dp" android:height="4dp"/>
+            <corners android:radius="0dp" />
+        </shape>
+    </item>
+</layer-list>
+
+<!-- From: file:/F:/Projects/Studio%20Projects/MaterialDesignApp-master/app/src/main/res/drawable/scrollbar.xml -->

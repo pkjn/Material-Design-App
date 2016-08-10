@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-102c487f5ea2db926ef4f0b0fd28a0320aebfb70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prateek Jain\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-b37e624170e06319307661c3bcd639aaa914f1f1.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\pre-dexed\debug\classes-b8eccb58d93a86818c4f3097cb95425055928878.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\pre-dexed\debug\classes-40df842c4a23ccd830f3b5fe8a201045b4251c35.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\pre-dexed\debug\classes-3dbd068c79639966368b3d643734d6327cf60e56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prateek Jain\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-0e0c4ccbd03d2550a201069aa3dcf230e3fd6acf.jar" />
+    </item>
+    <item
+        jar="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="F:\Projects\Studio Projects\MaterialDesignApp-master\app\build\intermediates\pre-dexed\debug\classes-a9ac0ece5aedd9baed81805aff9797c64cdf0780.jar" />
+    </item>
+
+</items>

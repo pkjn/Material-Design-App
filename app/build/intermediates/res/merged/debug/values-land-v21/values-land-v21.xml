@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/Projects/Studio%20Projects/MaterialDesignApp-master/app/src/main/res/values-land-v21/attrs.xml -->
+    <eat-comment/>
+    <bool name="fitsSystemWindows">true</bool>
+    <bool name="translucentNavigationBar">false</bool>
+    <color name="inset">#4000</color>
+    <dimen name="space">0dp</dimen>
+    <dimen name="statusBarHeight">0dp</dimen>
+</resources>
